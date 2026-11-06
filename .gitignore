@@ -1,0 +1,6 @@
+# Keep raw product captures out of the repo. They are already embedded in index.html.
+*.png
+*.jpg
+*.jpeg
+*.webp
+.DS_Store
